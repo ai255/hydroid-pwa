@@ -1,8 +1,8 @@
 ![cover](https://cotenfrontend.pl/img/cover.png)
 
-# WTF Webpack Starter Kit 
+# hydroid PWA app
 
-Simple toolkit for your static websites development.
+Simple toolkit for your static websites development. Based on WTF Webpack Starter Kit 
 
 ## How to use it?
 
