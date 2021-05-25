@@ -1,0 +1,24 @@
+{
+  "name": "PWA: Hydroid",
+  "short_name": "PWA: Hydroid",
+  "theme_color": "#2D2241",
+  "background_color": "#2D2241",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/hydroid-pwa/",
+  "start_url": "/hydroid-pwa/",
+  "icons": [
+    {
+      "src": "pwa/manifest-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "pwa/manifest-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ]
+}
