@@ -11,4 +11,4 @@ Simple toolkit for your PWA development. Based on WTF Webpack Starter Kit
 
 `npm run publish` - runs build process and publish the page using `gh-pages` branch
 
-`npm install` - do not forget about it in first run ; )
+`npm install` - do not forget about it in first run ;-)
