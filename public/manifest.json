@@ -1,12 +1,12 @@
 {
-  "name": "WTF: PWA",
-  "short_name": "WTF: PWA",
+  "name": "PWA: Hydroid",
+  "short_name": "PWA: Hydroid",
   "theme_color": "#2D2241",
   "background_color": "#2D2241",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": "/wtf-webpack-starter/",
-  "start_url": "/wtf-webpack-starter/",
+  "scope": "/hydroid-pwa/",
+  "start_url": "/hydroid-pwa/",
   "icons": [
     {
       "src": "pwa/manifest-icon-192.png",
