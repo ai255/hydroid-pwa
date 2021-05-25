@@ -1,5 +1,5 @@
 
-# hydroid PWA app
+## hydroid PWA app
 
 Simple toolkit for your static websites development. Based on WTF Webpack Starter Kit 
 
