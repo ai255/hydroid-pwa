@@ -2,7 +2,7 @@
 
 ## hydroid PWA app
 
-Simple toolkit for your PWA development. Based on WTF Webpack Starter Kit 
+Simple PWA project helps you stay hydrated. Based on WTF Webpack Starter Kit 
 
 ## Available scripts
 
