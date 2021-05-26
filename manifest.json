@@ -1,8 +1,8 @@
 {
-  "name": "PWA: Hydroid",
-  "short_name": "PWA: Hydroid",
-  "theme_color": "#2D2241",
-  "background_color": "#2D2241",
+  "name": "Hydroid",
+  "short_name": "Hydroid",
+  "theme_color": "#3767AD",
+  "background_color": "#3767AD",
   "display": "standalone",
   "orientation": "portrait",
   "scope": "/hydroid-pwa/",
