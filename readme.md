@@ -1,4 +1,4 @@
-![cover](/pupblic/og.png)
+![cover](./gh/og.png)
 
 ## hydroid PWA app
 
